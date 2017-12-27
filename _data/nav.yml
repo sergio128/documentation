@@ -4,14 +4,23 @@
 
 - title: Platform overview
   pages:
-    - title: Architecture
-    - title: Security
+    - title: Data Platform
+    - title: B2B
+    - title: Portals
+    - title: Experiences
+    - title: Tech. and Services
 
-- title: Tutorials
-  pages:
-    - title: Sign up
-    - title: Brand your portal
-
-- title: About
+- title: Architecture
   pages:
     - title: Overview
+    - title: Security
+    - title: Resource Allocation
+    - title: Extensibility
+
+- title: How To
+  pages:
+    - title: Sign-Up
+    - title: Branding
+    - title: API Access
+    - title: Payment Gateways
+

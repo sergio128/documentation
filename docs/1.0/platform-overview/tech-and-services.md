@@ -1,18 +1,13 @@
 ---
 layout: docs
-title: Security
+title: Tech. and Services
 description: Get started with Bootstrap, the world's most popular framework for building responsive, mobile-first sites, with BootstrapCDN and a template starter page.
 group: platform-overview
-redirect_from:
-  - /docs/
-  - /docs/1.0/
-  - /docs/1.0/platform-overview/
-  - /docs/platform-overview/
 toc: true
 ---
 
 ## Quick start
-
+TECH
 Looking to NICK quickly add Bootstrap to your project? Use BootstrapCDN, provided for free by the folks at MaxCDN. Using a package manager or need to download the source files? [Head to the downloads page.]({{ site.baseurl }}/docs/{{ site.docs_version }}/getting-started/download/)
 
 ### CSS
